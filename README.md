@@ -22,3 +22,8 @@ To allow running these, an ant-script needs to be added and run prior to compila
 ## Documentation
 A large part of the code-base is documented using the Javadoc-standard which should help increase readability and maintainability. The generated index-page can be found in the Documentation/JavaDoc.zip folder.\
 The design, implementation, and general creation of the compiler is described in the project report in Documentation/LanguageReportDocumentation.pdf
+
+# Group Members and Report:
+Christian Graae Zandersen, Daniel Thomsen, Jesper Adriaan van Diepen, Mike Lund Andersen, Niki Ewald Zakariassen, Simon Steiner
+
+[Report](Report.pdf)
